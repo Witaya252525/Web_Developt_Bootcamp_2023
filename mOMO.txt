@@ -8,4 +8,7 @@
 8.https://www.instagram.com/coding.stella/ ==> good of Website to learning
 9.https://codepen.io/Witaya-Chaison/pen/jOQNyEK  ==> Codepen witaya /// witaya.chaison@gmail.com 
 10.How to do footer design in HTML
-
+11.https://docs.emmet.io/cheat-sheet/   ==>HTML 
+12.Unicode table charector ==> https://symbl.cc/en/1F348/
+13.definitively
+14.inevitably
