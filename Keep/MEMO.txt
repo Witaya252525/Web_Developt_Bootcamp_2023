@@ -3,12 +3,20 @@
 3.<a draggable= true> This  is link to Google </a>
 4.https://picsum.photos/
 5.file path Absolute and relative filr path  ( above folder use ../    same hirachey use ./)
-6.Good  100 days Java scripts  ==> https://www.florin-pop.com/blog/2019/09/100-days-100-projects/?fbclid=IwAR1vLwQoMabd9uVUDUohCbecKXT-KQPbGwoZqhcaXtCYw2igDWXHkLL4KFE
+
 7.https://appbrewery.com/p/legacy-complete-web-development-course/
-8.https://www.instagram.com/coding.stella/ ==> good of Website to learning
+8.https://www.instagram.com/coding.stella/ ==> good of Website to learning my login is facebook.
 9.https://codepen.io/Witaya-Chaison/pen/jOQNyEK  ==> Codepen witaya /// witaya.chaison@gmail.com 
 10.How to do footer design in HTML
 11.https://docs.emmet.io/cheat-sheet/   ==>HTML 
 12.Unicode table charector ==> https://symbl.cc/en/1F348/
 13.definitively
 14.inevitably
+anchor
+achieve
+
+https://devdocs.io/html-elements/
+
+
+
+
