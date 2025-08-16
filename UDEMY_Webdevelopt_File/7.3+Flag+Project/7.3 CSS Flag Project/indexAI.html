@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Flag Project</title>
+  <style>
+    .flag {
+      width: 900px;
+      height: 600px;
+      position: relative;
+      margin: 0 auto;
+      font-family: 'Arial', sans-serif;
+      font-size: 3em;
+      background: none;
+      border: 2px solid #fff;
+      box-sizing: border-box;
+      text-align: center;
+    }
+
+    .flag>p {
+      color: #fff;
+      margin: 0;
+      padding-top: 20px;
+      font-size: 2em;
+      z-index: 2;
+      position: relative;
+    }
+
+    .flag>div {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      /* The blue stripe */
+      background: #002868;
+      height: 300px;
+      top: 150px;
+      z-index: 1;
+    }
+
+    .flag::before,
+    .flag::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 150px;
+      background: #ce1126;
+      z-index: 0;
+    }
+
+    .flag::before {
+      top: 0;
+    }
+
+    .flag::after {
+      bottom: 0;
+    }
+
+    .flag>div>div {
+      width: 200px;
+      height: 200px;
+      background: #fff;
+      border-radius: 50%;
+      position: absolute;
+      top: 50px;
+      left: 350px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      z-index: 2;
+    }
+
+    .flag>div>div>p {
+      color: #000;
+      font-size: 1.2em;
+      margin: 0;
+      text-align: center;
+      line-height: 1.1;
+    }
+  </style>
+</head>
+
+<!-- 
+  IMPORTANT! Do not change any HTML
+Don't add any classes/ids/elements 
+Use what you know about combining selectors 
+and CSS specificity instead.
+Hint 1: The flag is 900px by 600px and the circle is 200px by 200px.
+Hint 2: You can use CSS inspection to get the colors from
+https://appbrewery.github.io/flag-of-laos/
+-->
+
+<body>
+  <div class="flag">
+    <p>The Flag</p>
+    <div>
+      <div>
+        <p>of Laos</p>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

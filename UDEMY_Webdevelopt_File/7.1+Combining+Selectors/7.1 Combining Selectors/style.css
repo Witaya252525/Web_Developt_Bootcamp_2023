@@ -1,0 +1,30 @@
+/* Write your code here: */
+
+
+h1,
+h2 {
+    color: rgb(143, 24, 24);
+}
+
+
+
+.box>p {
+    color: blue;
+}
+
+
+ul.list li {
+    color: rgb(24, 143, 24);
+}
+
+
+
+ul.list li.done {
+    color: rgb(143, 24, 88);
+}
+
+
+ul>p.done {
+
+    font-size: 0.5rem;
+}
